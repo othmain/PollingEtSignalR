@@ -38,6 +38,7 @@ export class PollingComponent implements OnInit {
 
   complete(id: number) {
     // TODO On invoke la méthode pour compléter une tâche sur le serveur (Contrôleur d'API)
+    
   }
 
   addtask() {
